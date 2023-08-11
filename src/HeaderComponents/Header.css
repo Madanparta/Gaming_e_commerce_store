@@ -1,0 +1,69 @@
+
+.header_component{
+    width: 100%;
+    height: 8rem;
+    /* border: 1px solid #ccc; */
+    padding: 0 5rem;
+    box-shadow: 0 4px 8px rgba(241, 236, 173, 0.3);
+    background-color: black;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_component link{
+    color: white;
+}
+
+
+.main_logo{
+    letter-spacing: 3px;
+    color: lightgoldenrodyellow;
+}
+.text_bar{
+    width: 50rem;
+    height: 5rem;
+    border-radius: 5px;
+    outline: none;
+    padding-left: 1rem;
+    font-size: 2rem;
+    color: #333;
+}
+.search{
+    height: 5rem;
+    width: 3rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+
+/* cort */
+.cart_sections{
+    /* border: 1px solid white; */
+    width: 20rem;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+.cart_sections h4{
+    letter-spacing: 2.5px;
+    font-weight: 600;
+    color: white;
+}
+.cart_sections p{
+    font-style: italic;
+    font-size: 1.4rem;
+    color: white;
+}
+.cart_sections p .cart_item{
+    margin-left: 1.5rem;
+    color: white;
+}
+
+
