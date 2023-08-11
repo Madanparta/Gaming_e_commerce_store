@@ -1,10 +1,10 @@
 import React from 'react'
 import './MainBody.css';
 import Items from './Items';
-import gif from './gift.gif';
-import gameImg from './header.jpg'
-import Shock from './header (1).jpg'
-import Propagation from './Propagation.jpg'
+import gif from './best-pc-games-valorant.jpg';
+import gameImg from './best-pc-games-valorant.jpg'
+import Shock from './best-pc-games-valorant.jpg'
+import Propagation from './best-pc-games-valorant.jpg'
 
 const MainBody = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import imgdes from './Propagation.jpg'
+import imgdes from './best-pc-games-valorant.jpg'
 
 const CheckoutItem = () => {
   return (

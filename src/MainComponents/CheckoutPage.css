@@ -63,13 +63,15 @@
 .dividing{
     display: flex;
     margin-top: 1rem;
+    width: 100%;
 }
 
 
 /* subtotal page */
 .subtotal{
     border: 2px solid rgb(40, 120, 41);
-    width: 100%;
+    width: auto;
     padding: 2rem;
     font-size: 1.6rem;
+    margin-right: 5rem;
 }

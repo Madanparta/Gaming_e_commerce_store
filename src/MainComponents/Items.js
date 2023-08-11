@@ -4,7 +4,7 @@ const Items = ({game_name,discriptions,src,price,stare}) => {
   return (
     <div className="item_container">
       <div className="single_item">
-        <img src={src} alt="items" />
+        <img className='item-photo' src={src} alt="items" />
         <div>
           <h3>{game_name}</h3>
           <p>{discriptions}</p>
